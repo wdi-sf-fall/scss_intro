@@ -39,9 +39,10 @@ $black: #000000;
 }
 ```
 
+**GOAL**
 Now you try:
 
-CSS
+Convert the below CSS to SCSS on [jsbin](http://jsbin.com/?html,css,output)
 
 ```
 #container {
