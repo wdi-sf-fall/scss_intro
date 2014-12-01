@@ -3,8 +3,8 @@
 ##Learning Objectives
 
 * Compare SCSS & Sass
-* Articulate Sass's advantages
 * Translate CSS into Sass
+* Articulate Sass's advantages
 
 ##SCSS, the Sassy CSS
 
@@ -36,6 +36,29 @@ $black: #000000;
     p {
         color :$black;
     }
+}
+```
+
+Now you try:
+
+CSS
+
+```
+#container {
+    width: 100%;
+    background: pink;
+}
+
+#container ul {
+    list-style-type: none;
+}
+
+#container ul li {
+    color: blue;
+}
+
+#container ul li:hover {
+    text-decoration: underline;
 }
 ```
 
