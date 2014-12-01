@@ -8,6 +8,8 @@
 
 ##SCSS, the Sassy CSS
 
+[Difference between Sass & SCSS](http://www.sitepoint.com/whats-difference-sass-scss/)
+
 SCSS stands for *Sassy CSS* was introduced as "the new main sytax" for Sass.
 
 Rails is configured to understand SCSS.
